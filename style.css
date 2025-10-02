@@ -10,6 +10,18 @@ header {
     color: rgb(186, 218, 252);
 }
 
+section {
+    background-color: rgb(186, 218, 252); /* cor escolhida */
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
 h1 {
     font-size: 30px; /* tamnho fonte */
     text-align: center; /* centralizado */
